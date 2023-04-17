@@ -1,0 +1,14 @@
+name: dart_scripts
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  args: ^2.4.0
+  http: ^0.13.5
+
+dev_dependencies:
+  lints: ^2.0.0
+
+executables:
+  joke:
